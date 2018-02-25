@@ -1,6 +1,6 @@
 # jamildoit.github.io
 
-[Research]: <https://www.semanticscholar.org/> <br/>
+Research: <https://www.semanticscholar.org/> <br/>
 
 * Neural Networks
 * Convolutional Networks
