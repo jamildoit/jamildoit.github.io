@@ -1,6 +1,6 @@
 # jamildoit.github.io
 
-Research: https://www.semanticscholar.org/
+Research: https://www.semanticscholar.org/ <br/>
 Method for Literature Reviews: 
 
 * Neural Networks
