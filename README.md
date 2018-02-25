@@ -5,11 +5,12 @@
 
 #### ARTIFICIAL INTELLIGENCE FOUNDATIONS
 1. [Neural Networks](https://www.semanticscholar.org/search?q=neural%20networks&sort=relevance)
-1.1. Classification
-1.2. Perceptrons
-1.3. Error Functions
-1.4. Cross Entropy
-1.5. Gradient Descent
+A. Key-Terms
+Classification
+ii. Perceptrons
+. Error Functions
+D. Cross Entropy
+. Gradient Descent
 1.6. Logistic Regression
 1.7. Feedforward
 1.8. Backpropogation
